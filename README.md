@@ -1,1 +1,1 @@
-# Simple-registration--block
+# Simple-registration Wordpress block plugin
